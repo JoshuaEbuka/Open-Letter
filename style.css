@@ -1,0 +1,21 @@
+.address1 {
+    float: right;
+}
+
+#address2 {
+    clear: both;
+}
+
+h1 {
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+    font-weight: bold;
+}
+
+p, li {
+    font-size: 14pt;
+    padding: 0px 30px;
+}
